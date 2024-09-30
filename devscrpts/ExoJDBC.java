@@ -144,4 +144,3 @@ public class ExoJDBC {
 
     
 
-//SELECT * FROM DevData;UPDATE DevData SET NbScripts = 5 WHERE Developpeurs = 'WAFI';
