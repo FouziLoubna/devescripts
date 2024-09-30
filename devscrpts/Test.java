@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Test {
    
     public static void main(String[] args) {
-        // Créer une instance de DatabaseManager
+        // Créer une instance 
         //GestionaireBD GB = new GestionaireBD();
 
         // Ouvrir la connexion
